@@ -1,0 +1,30 @@
+{
+  "project": "parikmaherskaya-avia",
+  "files": [
+    ".nojekyll",
+    "app.js",
+    "booking-domain.js",
+    "booking-ui.js",
+    "content.js",
+    "demo-manifest.json",
+    "fonts/CormorantGaramond-OFL.txt",
+    "fonts/Manrope-OFL.txt",
+    "fonts/font-1.woff2",
+    "fonts/font-2.woff2",
+    "fonts/font-3.woff2",
+    "fonts/font-4.woff2",
+    "fonts/font-5.woff2",
+    "fonts/font-6.woff2",
+    "fonts/fonts.css",
+    "images/lucide-LICENSE.txt",
+    "images/main-hall.webp",
+    "images/pin.svg",
+    "images/reception.webp",
+    "images/styling-corner.webp",
+    "images/waiting-area.webp",
+    "index.html",
+    "robots.txt",
+    "styles.css",
+    "version.json"
+  ]
+}
